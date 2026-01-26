@@ -86,9 +86,9 @@ Before you start, you should send a message to the [Mahout developer mailing lis
 (note: you have to subscribe before you can post), or file a ticket in our [issue tracker](https://issues.apache.org/jira/browse/MAHOUT).
 Describe your proposed changes and check that they fit in with what others are doing and have planned for the project.  Be patient, it may take folks a while to understand your requirements.
 
- 1. Create a JIRA Issue (if one does not already exist or you haven't already)
+ 1. Create a JIRA Issue in the [issue tracker](https://issues.apache.org/jira/browse/MAHOUT) (if one does not already exist)
  2. Pull the code from your GitHub repository
- 3. Ensure that you are working with the latest code from the [apache/mahout](https://github.com/apache/mahout) master branch.
+ 3. Ensure that you are working with the latest code from the [apache/mahout](https://github.com/apache/mahout) main branch.
  3. Modify the source code and add some (very) nice features.
      - Be sure to adhere to the following points:
          - All public classes and methods should have informative Javadoc

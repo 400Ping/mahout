@@ -1,3 +1,6 @@
+---
+title: Basic Gates
+---
 # Quantum Gate Explanations
 
 ## NOT Gate (X-Gate)
